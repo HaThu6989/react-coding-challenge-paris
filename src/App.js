@@ -24,5 +24,6 @@ function App() {
     </div>
   );
 }
-
+// https://github.com/ameyerfr/coding-challenge-paris/commit/714b8d9c3116e9e52dce877068b1c57f4f1737e8#diff-04a86f3a47f92035cabcf278df14e9fa04f5d8b095a6c015034981f296d41fa9
+//https://github.com/yuuumiao/coding-challenge-paris/blob/master/my-app/src/components/NavMain.jsx
 export default App;
